@@ -74,12 +74,12 @@ footer {
   }
 
   main {
-    width: 90%;  
+    width: 90%;  /* 画面幅90% */
     display: block;
   }
 
   .step-box {
-    width: 90%;  
+    width: 90%;  /* 画面幅90% */
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 20px;
