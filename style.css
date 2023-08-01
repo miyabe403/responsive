@@ -87,7 +87,7 @@ footer {
     margin-bottom: 20px;  /* 下margin 20px */
   }
 
-  .step-box:last-child {  /* step-boxの末尾に適用 */
+  .step-box:last-child {  /* step-boxの末尾に適用 */ 
     margin-bottom: 0;  /* 下margin 0 */
   }
 
