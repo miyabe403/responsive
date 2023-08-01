@@ -77,6 +77,8 @@ footer {
     width: 90%;  /* 画面幅90% */
     margin-left: 5%;  /* 左margin 5% */
     margin-right: 5%;  /* 右margin 5% */
+    margin-top: 50px;  /* 上margin 50px */
+    margin-bottom: 50px;  /* 下margin 50px */
     display: block;
   }
 
