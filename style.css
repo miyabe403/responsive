@@ -17,7 +17,7 @@ main {
 }
 
 .step-box {
-  width: 300px;
+  width: 300px;  /* 画面幅300px */
   margin-right: 30px;
   padding: 10px;
   position: relative;
@@ -70,7 +70,7 @@ footer {
 
 @media screen and (max-width: 768px) {  /* 画面幅が768px以下でレスポンシブ対応 */
   header {
-    width: 100%;
+    width: 100%;  /* 画面幅100% */
   }
 
   main {
@@ -94,11 +94,11 @@ footer {
   }
 
   .step-img1, .step-img2, .step-img3 {
-    width: 100%;
+    width: 100%;  /* 画面幅100% */
   }
 
   .text {
-    width: 100%;
+    width: 100%;  /* 画面幅100% */
   }
 
   .step-num {
@@ -106,10 +106,10 @@ footer {
   }
 
   .title {
-    width: 100%;
+    width: 100%;  /* 画面幅100% */
   }
 
   footer {
-    width: 100%;
+    width: 100%;  /* 画面幅100% */
   }
 }
